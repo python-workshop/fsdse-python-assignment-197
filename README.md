@@ -1,1 +1,3 @@
-# Using only add, implement multiply, subtract, and divide for ints
+# Using only add, implement multiply, and subtract for integers.
+
+Give two integers, do multiply, and subtract operation using only + operator.
